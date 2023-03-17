@@ -13,7 +13,7 @@ int main(void)
 		putchar(ch + '0');
 		ch++;
 	}
-	cha = 'f'
+	ch = 'f'
 	while (ch <= 'f')
 	{
 		putchar (ch);
